@@ -1,1 +1,1 @@
-react-reduc-reducer setup demo
+react-reduc-reducer setup example
